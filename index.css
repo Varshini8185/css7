@@ -19,7 +19,7 @@ img{
 ::-webkit-scrollbar{
     display:none;
 }
-#div1 div{
+#div1 div:hover{
     padding: 10px;
     width: 200px;
     border: 3px solid white;
@@ -47,3 +47,4 @@ p{
     margin-top: -35px;
     margin-left: 39px;  
 }
+
